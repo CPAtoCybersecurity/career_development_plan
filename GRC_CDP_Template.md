@@ -1,6 +1,10 @@
 # Cybersecurity GRC Career Development Plan
 
 > **Learning Ratio:** 10% Education, 20% Relationships, 70% Experiences
+>
+> ### ▶️ Watch the Demo
+
+[![Watch the video](https://img.youtube.com/vi/iwABrs9vpp4/hqdefault.jpg)](https://youtu.be/iwABrs9vpp4)
 
 ---
 
