@@ -43,7 +43,7 @@
 
 #### Compliance & Audit
 
-| Competency | Rating (1-5) | Priority Focus? | Domain |
+| Competency | Rating<br> (1-5) | Priority Focus? | Domain |
 |---|---|---|---|
 | Audit Planning & Execution | | Yes / No | CISA Domain 1, Sec+ Domain 5 |
 | Evidence Collection & Testing | | Yes / No | CISA Domain 1, Sec+ Domain 5 |
@@ -55,7 +55,7 @@
 
 #### Risk Management
 
-| Competency | Rating (1-5) | Priority Focus? | Domain |
+| Competency | Rating<br>(1-5) | Priority Focus? | Domain |
 |---|---|---|---|
 | Risk Assessment Methodology | | Yes / No | CISSP Domain 1, CISA Domain 2, Sec+ Domain 5 |
 | Third-Party / Vendor Risk | | Yes / No | CISSP Domain 1, Sec+ Domain 5 |
@@ -68,7 +68,7 @@
 
 #### Governance
 
-| Competency | Rating (1-5) | Priority Focus? | Domain |
+| Competency | Rating<br>(1-5) | Priority Focus? | Domain |
 |---|---|---|---|
 | Policy & Procedure Development | | Yes / No | CISSP Domain 1, CISA Domain 2, Sec+ Domain 5 |
 | Security Awareness Program | | Yes / No | CISSP Domain 1, Sec+ Domain 5 |
@@ -82,7 +82,7 @@
 
 #### Technical Foundations: Network & Architecture
 
-| Competency | Rating (1-5) | Priority Focus? | Domain |
+| Competency | Rating<br>(1-5) | Priority Focus? | Domain |
 |---|---|---|---|
 | Networking Basics (TCP/IP, DNS, Firewalls) | | Yes / No | CISSP Domain 4, Sec+ Domain 3 |
 | Secure Network Architecture & Design | | Yes / No | CISSP Domain 4, Sec+ Domain 3 |
@@ -95,7 +95,7 @@
 
 #### Technical Foundations: Identity, Cloud & Operations
 
-| Competency | Rating (1-5) | Priority Focus? | Domain |
+| Competency | Rating<br>(1-5) | Priority Focus? | Domain |
 |---|---|---|---|
 | Identity & Access Management (IAM) | | Yes / No | CISSP Domain 5, CISA Domain 5, Sec+ Domain 4 |
 | Authentication & Authorization Mechanisms | | Yes / No | CISSP Domain 5, CISA Domain 5, Sec+ Domain 4 |
@@ -109,7 +109,7 @@
 
 #### Technical Foundations: Asset Security & Data Protection
 
-| Competency | Rating (1-5) | Priority Focus? | Domain |
+| Competency | Rating<br>(1-5) | Priority Focus? | Domain |
 |---|---|---|---|
 | Data Classification & Handling | | Yes / No | CISSP Domain 2, CISA Domain 5, Sec+ Domain 3 |
 | Asset Inventory & Lifecycle Management | | Yes / No | CISSP Domain 2, Sec+ Domain 4 |
@@ -119,7 +119,7 @@
 
 #### Technical Foundations: Security Assessment & Testing
 
-| Competency | Rating (1-5) | Priority Focus? | Domain |
+| Competency | Rating<br>(1-5) | Priority Focus? | Domain |
 |---|---|---|---|
 | Security Assessment Strategies & Methodologies | | Yes / No | CISSP Domain 6, Sec+ Domain 5 |
 | Vulnerability Assessments & Penetration Testing Concepts | | Yes / No | CISSP Domain 6, CISA Domain 5, Sec+ Domain 4 |
@@ -129,7 +129,7 @@
 
 #### Technical Foundations: Software & Systems Development
 
-| Competency | Rating (1-5) | Priority Focus? | Domain |
+| Competency | Rating<br>(1-5) | Priority Focus? | Domain |
 |---|---|---|---|
 | Secure SDLC Concepts | | Yes / No | CISSP Domain 8, CISA Domain 3, Sec+ Domain 5 |
 | Application Security Testing (SAST/DAST/IAST) | | Yes / No | CISSP Domain 8, CISA Domain 3, Sec+ Domain 4 |
@@ -141,7 +141,7 @@
 
 # AI Competency Self-Assessment
 
-| Competency | Rating (1-5) | Priority Focus? | NIST AI RMF Function(s) |
+| Competency | Rating<br>(1-5) | Priority Focus? | NIST AI RMF Function(s) |
 |---|---|---|---|
 | AI Security Fundamentals (LLM risks, prompt injection, data poisoning) | | Yes / No | MANAGE 2 (risk response), MANAGE 4 (residual risk documentation) + GenAI Profile: Information Security, CBRN |
 | AI Governance & Responsible Use Policies | | Yes / No | GOVERN 1 (policies & procedures), GOVERN 2 (accountability structures), GOVERN 6 (workforce diversity & training) |
@@ -160,7 +160,7 @@
 
 #### Professionalism
 
-| Competency | Rating (1-5) | Priority Focus? | Cert Alignment |
+| Competency | Rating<br>(1-5) | Priority Focus? | Cert Alignment |
 |---|---|---|---|
 | Ethical Judgment & Integrity | | Yes / No | CISSP Domain 1, CISA Domain 1, Sec+ Domain 5 |
 | Professional Skepticism | | Yes / No | CISA Domain 1 |
@@ -169,7 +169,7 @@
 
 #### Communication
 
-| Competency | Rating (1-5) | Priority Focus? | Cert Alignment |
+| Competency | Rating<br>(1-5) | Priority Focus? | Cert Alignment |
 |---|---|---|---|
 | Written Communication (Reports, Policies, Audit Findings) | | Yes / No | CISA Domain 1, CISSP Domain 1 |
 | Presentation & Executive Briefing | | Yes / No | CISA Domain 2 |
@@ -179,7 +179,7 @@
 
 #### Collaboration
 
-| Competency | Rating (1-5) | Priority Focus? | Cert Alignment |
+| Competency | Rating<br>(1-5) | Priority Focus? | Cert Alignment |
 |---|---|---|---|
 | Cross-Functional Teamwork | | Yes / No | CISSP Domain 7 |
 | Stakeholder Relationship Building | | Yes / No | CISA Domain 2 |
@@ -188,7 +188,7 @@
 
 #### Problem Solving
 
-| Competency | Rating (1-5) | Priority Focus? | Cert Alignment |
+| Competency | Rating<br>(1-5) | Priority Focus? | Cert Alignment |
 |---|---|---|---|
 | Issue Identification & Root Cause Analysis | | Yes / No | CISSP Domain 7, CISA Domain 4, Sec+ Domain 4 |
 | Developing Recommendations | | Yes / No | CISA Domain 1 |
@@ -197,7 +197,7 @@
 
 #### Adaptability
 
-| Competency | Rating (1-5) | Priority Focus? | Cert Alignment |
+| Competency | Rating<br>(1-5) | Priority Focus? | Cert Alignment |
 |---|---|---|---|
 | Continuous Learning Mindset | | Yes / No | |
 | Resilience Under Pressure | | Yes / No | CISSP Domain 7 |
