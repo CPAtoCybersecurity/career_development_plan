@@ -28,9 +28,9 @@
 | Field | Your Entry |
 |---|---|
 | **Name** | |
-| **Target Role (e.g. GRC Analyst, GRC Manager)** |  |
-| **Target Industry (e.g. Tech/Non-Tech, Public/Private, Consulting, Financial, Healthcare)** |  |
-| **Target Timeline (e.g. 6 months)** |  |
+| **Target Role** | (e.g. GRC Analyst, GRC Manager) |
+| **Target Industry** | (e.g. Tech/Non-Tech, Public/Private, Consulting, Financial, Healthcare) |
+| **Target Timeline** | (e.g. 6 months) |
 | **Date Created** | |
 
 ---
