@@ -471,9 +471,10 @@ Created by **Steve McMichael** and **Gerald Auger** (Simply Cyber), the [CSF Pro
 |---|---|---|
 | 1 | Darknet Diaries | Engaging breach stories and real-world case studies. [darknetdiaries.com](https://darknetdiaries.com) |
 | 2 | Simply Cyber Podcast | GRC perspectives, career advice, industry insights. [simplycyber.io](https://simplycyber.io) |
-| 3 | Risky Business | Industry news and expert analysis. [risky.biz](https://risky.biz) |
-| 4 | CISO Series | Leadership perspective on security programs. [cisoseries.com](https://cisoseries.com) |
-| 5 | Security Now | Steve Gibson's technical deep dives made accessible. [twit.tv/shows/security-now](https://twit.tv/shows/security-now) |
+| 3 | CISO Tradecraft | Practical CISO-level guidance on security strategy, risk, and leadership. One of the foundational resources for understanding how CISOs think. [youtube.com/@cisotradecraft](https://www.youtube.com/@cisotradecraft) |
+| 4 | Risky Business | Industry news and expert analysis. [risky.biz](https://risky.biz) |
+| 5 | CISO Series | Leadership perspective on security programs. [cisoseries.com](https://cisoseries.com) |
+| 6 | Security Now | Steve Gibson's technical deep dives made accessible. [twit.tv/shows/security-now](https://twit.tv/shows/security-now) |
 
 #### Annual Reports: Read at Least One
 
